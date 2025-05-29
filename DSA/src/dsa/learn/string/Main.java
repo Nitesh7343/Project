@@ -10,6 +10,9 @@ public class Main {
         sc.close();
         
 
+        //in this code the complexity will be O(n^2) due to string can't be modified so on every iteration it will make a new object.
+        
+
 
     }
 }
