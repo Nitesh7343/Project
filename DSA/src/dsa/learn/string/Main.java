@@ -6,6 +6,7 @@ public class Main {
         String s = new String("Hello");
         String s1 = s;
         s = "Hello Pikashu";
+        System.out.println(s1);
         System.out.println((int)'a' + " " +(int)'b');
         sc.close();
         
